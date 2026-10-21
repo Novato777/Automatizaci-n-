@@ -1,0 +1,26 @@
+# Variables de entorno y credenciales (NUNCA SUBIR A GITHUB)
+.env
+.env.local
+
+# Archivos de caché de Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+
+# Archivos temporales de Microsoft Excel
+~$*.xlsx
+~$*.xls
+
+# Entornos virtuales
+venv/
+.venv/
+env/
+ENV/
+
+# Logs y volcados de depuración
+*.log
+
+# Carpetas de editores e IDEs
+.vscode/
+.idea/
